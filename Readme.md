@@ -1,6 +1,6 @@
 # Programación web
 
-## Variables de entorno
+## Crear el archivo .env con las siguientes variables de entorno 
 
 ```sh
 DB_HOST=<IP de la BD>
